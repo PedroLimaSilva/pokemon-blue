@@ -5,7 +5,7 @@ import { gameState } from '../state/store';
 
 import CharacterSprite from '../sprites/char_main.png';
 
-import { TILE_SIZE } from './screen';
+import { TILE_SIZE } from './Screen';
 
 export class Character extends Component {
 

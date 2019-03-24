@@ -2,8 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 
 import { move } from './state/actions';
-
-import { Screen } from './components/screen';
+import { Screen } from './components/Screen';
 
 import { gameState } from './state/store';
 

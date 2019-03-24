@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import Background from '../sprites/route1.jpg';
 
-import { Character } from './character';
+import { Character } from './Character';
 
 import { gameState } from '../state/store';
 
